@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="disasteroids2_master" tilewidth="32" tileheight="32">
+  <image source="disasteroids2_master.bmp" width="639" height="479"/>
+ </tileset>
+ <layer name="background" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3Yuw2AMAwAUUtJBTNA40WyAw0rZP8FSElD+EpcHBevS3GyIllyEJFwIl5407sMaLhrKEZAx5GpmAEd7p0EaKhZAA2uX7Xd0eJe+ZMCGty3VkDDUwpocLYpoMG5PQU0WEC/vdD7CHKDc/LbkA1R2H8vARpq/DZk2wYrQOWjABkAAA==
+  </data>
+ </layer>
+</map>

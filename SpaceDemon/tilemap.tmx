@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Desert" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="tilemap.png" width="265" height="199"/>
+ </tileset>
+ <layer name="background" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3DAQkAAAwEoUvy/WOux1Bw1VRVVVVVVR89iwXvrgAZAAA=
+  </data>
+ </layer>
+ <layer name="others" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2W7QqAIAxFfRr76fu/XUgGMXb9iOkK7wHRCttx5iiEvYhgPDtWz31PkrdAuPKS26hLfPQzcyvfn8QzbYzme38DyF3jKM0K6zNo7VfjzhvyTqLPWPlpeWv51Oai65loZ3tV/Nq6pVdv7bZ2R7XPu16gdbf28yv1boTV/wVaPI98vfH64/4SQgghhBBCCNmPE5Q4JKsAGQAA
+  </data>
+ </layer>
+</map>
